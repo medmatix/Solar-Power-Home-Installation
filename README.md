@@ -32,6 +32,9 @@ Parallel vs Series layouts
 
 ## Power System Management
 
-Control and storage
-Safety and Reliability
-Distribution and Delivery
+- Control and storage
+
+- Safety and Reliability
+
+- Distribution and Delivery
+
