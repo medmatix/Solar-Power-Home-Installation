@@ -17,10 +17,10 @@ As well the ease of acquiring the know how and even recognized qualifications th
 
 **Panel Selection and Specifications:**
   
-![image](https://user-images.githubusercontent.com/9564727/209599096-a6664d28-2983-4b08-8e19-4ef10f86136e.png)
+![image](https://github.com/medmatix/Solar-Power-Home-Installation/blob/main/Q-Cell%20Table.png)
 
 
-![Solar Panel Racks](https://github.com/medmatix/Solar-Power-Home-Installation/blob/main/Solar%20Rack%20and%20Base%20V2%20LoRes.png)
+![image](https://github.com/medmatix/Solar-Power-Home-Installation/blob/main/Solar%20Rack%20and%20Base%20V2%20LoRes.png)
 
 *Panel Support Rack Mounts, Free Standing*
 
@@ -38,3 +38,4 @@ Parallel vs Series layouts
 
 - Distribution and Delivery
 
+## References
