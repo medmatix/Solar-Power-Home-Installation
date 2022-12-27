@@ -15,11 +15,11 @@ As well the ease of acquiring the know how and even recognized qualifications th
 
 ### Solar Panel Deployment:
 
-*Panel Selection and Specifications:*
+**Panel Selection and Specifications:**
 
 ![Solar Panel Racks](https://github.com/medmatix/Solar-Power-Home-Installation/blob/main/Solar%20Rack%20and%20Base%20V2%20LoRes.png)
 
-**Panel Support Rack Mounts, Free Standing**
+*Panel Support Rack Mounts, Free Standing*
 
 
 
