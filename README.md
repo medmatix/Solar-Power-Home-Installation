@@ -12,4 +12,5 @@ As well the ease of acquiring the know how and even recognized qualifications th
 ## Design
 
 ### Solar Panel Deployment:
-![Solar Panel Racks]()
+![Solar Panel Racks](https://github.com/medmatix/Solar-Power-Home-Installation/blob/main/Solar%20Rack%20and%20Base%20V2%20LoRes.png)
+Panel Support Rack Mounts, Free Standing
