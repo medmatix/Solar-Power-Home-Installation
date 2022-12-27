@@ -11,7 +11,24 @@ As well the ease of acquiring the know how and even recognized qualifications th
 
 ## Design
 
+### Site Description and Layout
+
 ### Solar Panel Deployment:
+
+*Panel Selection and Specifications:*
+
 ![Solar Panel Racks](https://github.com/medmatix/Solar-Power-Home-Installation/blob/main/Solar%20Rack%20and%20Base%20V2%20LoRes.png)
 
-Panel Support Rack Mounts, Free Standing
+**Panel Support Rack Mounts, Free Standing**
+
+
+
+### Panel Configuration
+
+Parallel vs Series layouts
+
+## Power System Management
+
+Control and storage
+Safety and Reliability
+Distribution and Delivery
