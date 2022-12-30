@@ -20,7 +20,7 @@ As well, the ease of acquiring the know-how, and obtaining recognized qualificat
 ![image](https://github.com/medmatix/Solar-Power-Home-Installation/blob/main/Q-Cell%20Table.png)
 
 
-![image](https://github.com/medmatix/Solar-Power-Home-Installation/blob/main/Solar%20Rack%20and%20Base%20V2%20LoRes.png)
+![image](https://github.com/medmatix/Solar-Power-Home-Installation/blob/main/Solar%20Rack%20and%20Base%20V2.stl)
 
 *Panel Support Rack Mounts, Free Standing*
 
