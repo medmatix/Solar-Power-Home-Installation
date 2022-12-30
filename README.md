@@ -20,7 +20,7 @@ As well, the ease of acquiring the know-how, and obtaining recognized qualificat
 ![image](https://github.com/medmatix/Solar-Power-Home-Installation/blob/main/Q-Cell%20Table.png)
 
 
-'''stl
+```stl
 
 [solid Exported from Blender-2.93.13
 facet normal -0.987050 -0.160412 -0.000000
@@ -19471,7 +19471,7 @@ endloop
 endfacet
 endsolid Exported from Blender-2.93.13]
 
-'''
+```
 
 *Panel Support Rack Mounts, Free Standing*
 
