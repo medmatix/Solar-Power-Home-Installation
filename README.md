@@ -21,7 +21,8 @@ As well, the ease of acquiring the know-how, and obtaining recognized qualificat
 
 
 '''stl
-   solid Exported from Blender-2.93.13
+
+solid Exported from Blender-2.93.13
 facet normal -0.987050 -0.160412 -0.000000
 outer loop
 vertex -0.070772 -0.194872 0.227906
